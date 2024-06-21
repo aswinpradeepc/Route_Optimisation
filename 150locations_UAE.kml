@@ -1,0 +1,3261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>150locations</name>
+	<gx:CascadingStyle kml:id="__managed_style_2FB5F9098F31653C7FCC">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1CAF3F0BDA31653C7FCC">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0EC83A323331653C7FCC">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1CAF3F0BDA31653C7FCC</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2FB5F9098F31653C7FCC</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="00E0F2394531653C7FC6">
+		<name>Qasr Al Hosn</name>
+		<gx:mid>/m/025_dyk</gx:mid>
+		<gx:fid>0x3e5e6671079e3853:0x6142fa1df9085a2f</gx:fid>
+		<LookAt>
+			<longitude>54.354723</longitude>
+			<latitude>24.482237</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.1841155463866</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.354723,24.482237,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="014A8D1E1E31653CAEFD">
+		<name>LLH Hospital</name>
+		<gx:mid>/g/11b6gbrqmj</gx:mid>
+		<gx:fid>0x3e5e66689a77e597:0xe26d327652d30303</gx:fid>
+		<LookAt>
+			<longitude>54.36487079999999</longitude>
+			<latitude>24.4876555</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.1386325381869</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.36487080000001,24.4876555,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0897BA266931653CE221">
+		<name>Medeor 24x7 Hospital</name>
+		<gx:mid>/g/11ckqqmvmf</gx:mid>
+		<gx:fid>0x3e5e67a7f0254f3d:0xdcef7695fe37ebb6</gx:fid>
+		<LookAt>
+			<longitude>54.3698432</longitude>
+			<latitude>24.4802439</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.2008433934299</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3698432,24.4802439,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="066DB9C9EC31653CFB76">
+		<name>Advanced Cure Diagnostic Center (Main)</name>
+		<gx:mid>/g/1hdzvt3j6</gx:mid>
+		<gx:fid>0x3e5e660721078657:0x9210b8ff9044fc33</gx:fid>
+		<LookAt>
+			<longitude>54.3492458</longitude>
+			<latitude>24.4592165</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3772491532595</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3492458,24.4592165,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C4D0AF2B631653D15E8">
+		<name>British Council</name>
+		<gx:mid>/g/11cfddc_2</gx:mid>
+		<gx:fid>0x3e5e667427609715:0x451887bcb9b60c5c</gx:fid>
+		<LookAt>
+			<longitude>54.3423147</longitude>
+			<latitude>24.4608942</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3631793849977</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.34235810000001,24.4609503,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00DD79E0CB31653D2B28">
+		<name>Sheikha Fatima Park</name>
+		<gx:mid>/g/11bxfkwj7d</gx:mid>
+		<gx:fid>0x3e5e65e65c2475b1:0xae8d336d2ad5125d</gx:fid>
+		<LookAt>
+			<longitude>54.3378887</longitude>
+			<latitude>24.4672209</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3101136941629</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3378887,24.4672209,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04BC648A4B31653D4B17">
+		<name>Lavish Medical Center</name>
+		<gx:mid>/g/11n96ggtxs</gx:mid>
+		<gx:fid>0x3e5e651243454669:0x956125b067f76db8</gx:fid>
+		<LookAt>
+			<longitude>54.3423137</longitude>
+			<latitude>24.46376249999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.339122824771</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3423137,24.4637625,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A0CE9F3C331653D658E">
+		<name>Medical Park Consultants One Day Surgery Center</name>
+		<gx:mid>/g/11b8tc1f_1</gx:mid>
+		<gx:fid>0x3e5e65e2c592b9f3:0x46e873cfb8b4b601</gx:fid>
+		<LookAt>
+			<longitude>54.3446704</longitude>
+			<latitude>24.4623915</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3506217796916</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3446704,24.4623915,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A2312BF4231653D814D">
+		<name>Amrita Medical Center مركز عمريتا الطبي</name>
+		<gx:mid>/g/11f3zn6wtq</gx:mid>
+		<gx:fid>0x3e5e6675c756e50d:0xcf75fc30df8275e7</gx:fid>
+		<LookAt>
+			<longitude>54.3483671</longitude>
+			<latitude>24.4773519</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.2251134204383</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3483671,24.4773519,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="032436CDCC31653D9AE6">
+		<name>NMC Royal Medical Centre Karama Abu Dhabi</name>
+		<gx:mid>/g/11j0hv3gzl</gx:mid>
+		<gx:fid>0x3e5e671228a097f5:0xe4c15f57d856f2a6</gx:fid>
+		<LookAt>
+			<longitude>54.3566313</longitude>
+			<latitude>24.4657083</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3228018682154</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3566313,24.4657083,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C0735910C31653DCAE5">
+		<name>Burjeel Hospital</name>
+		<gx:mid>/g/1hc209qfc</gx:mid>
+		<gx:fid>0x3e5e6637a20ebba3:0x2a4688631798a14</gx:fid>
+		<LookAt>
+			<longitude>54.38121779999999</longitude>
+			<latitude>24.4794001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.2079249355008</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.38121779999999,24.4794001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09F0194F7131653DFB06">
+		<name>Al Nahyan Park حديقة آل نهيان</name>
+		<gx:mid>/g/11pb_3_f9r</gx:mid>
+		<gx:fid>0x3e5e696655bf2fab:0x2000a844e4970926</gx:fid>
+		<LookAt>
+			<longitude>54.396674</longitude>
+			<latitude>24.4633632</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3424719237941</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.396674,24.4633632,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0628A8E06B31653E1D7E">
+		<name>AlMamoura Academy Basketball Court</name>
+		<gx:mid>/g/11js4g8031</gx:mid>
+		<gx:fid>0x3e5e691e8db372c3:0x88f500ad7f1cce1d</gx:fid>
+		<LookAt>
+			<longitude>54.3937846</longitude>
+			<latitude>24.4648217</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.330238625313</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3937846,24.4648217,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0ED020F70731653E36A2">
+		<name>AlNahayan Camp Recruitment Division</name>
+		<gx:mid>/g/11b7hfnvxt</gx:mid>
+		<gx:fid>0x3e5e67d5021a2cb1:0x3ffa268927ef41b4</gx:fid>
+		<LookAt>
+			<longitude>54.3928053</longitude>
+			<latitude>24.4671882</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.310387999718</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3928053,24.4671882,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0770762B1831653E5CB7">
+		<name>Berlin Medical and Neurological Rehabilitation</name>
+		<gx:mid>/g/11c5bhsb1b</gx:mid>
+		<gx:fid>0x3e5e663aa23c94c5:0x9f2643f7d37ed64c</gx:fid>
+		<LookAt>
+			<longitude>54.3861061</longitude>
+			<latitude>24.4740842</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.2525332645296</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.38610609999999,24.4740842,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="037B5A7AC831653E8BF7">
+		<name>المركز العالمي للركبة والمفاصل</name>
+		<gx:mid>/g/11b5ysswsr</gx:mid>
+		<gx:fid>0x3e5e66372e02c8ad:0x4b6547aa4076bc5a</gx:fid>
+		<LookAt>
+			<longitude>54.3817387</longitude>
+			<latitude>24.4773247</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.225341674006</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.38173869999999,24.4773247,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07F9E4CDCB31653EBB11">
+		<name>Pearl British Academy - Aldar Academies</name>
+		<gx:mid>/g/1yfp0hx92</gx:mid>
+		<gx:fid>0x3e5e663bdf43a45f:0x581bd9c31e2e94e7</gx:fid>
+		<LookAt>
+			<longitude>54.3756978</longitude>
+			<latitude>24.4752616</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.2426538741306</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3756989,24.4752066,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04FEB1E5B331653EE34E">
+		<name>Al Nahyan Stadium</name>
+		<gx:mid>/m/0cw8p0</gx:mid>
+		<gx:fid>0x3e5e6624b8b1d7ad:0xd34d8bd277387423</gx:fid>
+		<LookAt>
+			<longitude>54.3753124</longitude>
+			<latitude>24.4693856</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.2919542681935</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3753124,24.4693856,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02C975D0FF31653F2428">
+		<name>Ahalia Eye Care</name>
+		<gx:mid>/g/11hczz8wn1</gx:mid>
+		<gx:fid>0x3e5e662649d08a45:0x8691e8b6d3ae176a</gx:fid>
+		<LookAt>
+			<longitude>54.3778973</longitude>
+			<latitude>24.4639745</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3373446705618</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3778973,24.4639745,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E9488249231653F3B26">
+		<name>Canadian Medical Center CMC</name>
+		<gx:mid>/g/1ptz81dtn</gx:mid>
+		<gx:fid>0x3e5e6627a6abdacf:0xae8f30078d477446</gx:fid>
+		<LookAt>
+			<longitude>54.3771332</longitude>
+			<latitude>24.462072</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3533014309417</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3771332,24.462072,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0AC226C9D531653F593D">
+		<name>American European Medical Center</name>
+		<gx:mid>/g/1hhgvchd8</gx:mid>
+		<gx:fid>0x3e5e6882ababca57:0x52d7966a10dd1b89</gx:fid>
+		<LookAt>
+			<longitude>54.3798424</longitude>
+			<latitude>24.4612974</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3597978819175</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.37984239999999,24.4612974,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0036277FFD31653F7F72">
+		<name>Al Reyada Medical Centre L.L.C.</name>
+		<gx:mid>/g/11ry4wl38v</gx:mid>
+		<gx:fid>0x3e5e673c1ff9e7f7:0x78ce6073955fcf63</gx:fid>
+		<LookAt>
+			<longitude>54.37640209999999</longitude>
+			<latitude>24.46120609999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.360563588769</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3764021,24.4612061,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E426290E631653FB49F">
+		<name>Mosque Mus&apos;ab Bin Umair</name>
+		<gx:mid>/g/11b66dk_hq</gx:mid>
+		<gx:fid>0x3e5e689da74a77c5:0x490d3d6113787d20</gx:fid>
+		<LookAt>
+			<longitude>54.37669690000001</longitude>
+			<latitude>24.4587766</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.380938161996</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3767046,24.4587358,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="087B5FCCB231653FD01B">
+		<name>The International School of Choueifat – Abu Dhabi</name>
+		<gx:mid>/g/1tj31ljz</gx:mid>
+		<gx:fid>0x3e5e688459538b2f:0xd1dbaf2ed5891b46</gx:fid>
+		<LookAt>
+			<longitude>54.3814465</longitude>
+			<latitude>24.45615189999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.4029476990308</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3814465,24.4561519,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00B203123731654001FB">
+		<name>Resettle Worldwide Administrative Consultancy</name>
+		<gx:mid>/g/11rww8vl7z</gx:mid>
+		<gx:fid>0x3e5e696495580403:0xb87fb7cb36c0bc07</gx:fid>
+		<LookAt>
+			<longitude>54.3784258</longitude>
+			<latitude>24.4596058</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3739844271666</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3784258,24.4596058,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0254078AAE316540260E">
+		<name>مركز السلطان للحجامة - Al Sultan Cupping Center</name>
+		<gx:mid>/g/11h9p950kq</gx:mid>
+		<gx:fid>0x3e5e6926fe3920ef:0x1b1edfd05c5192fb</gx:fid>
+		<LookAt>
+			<longitude>54.3794012</longitude>
+			<latitude>24.4603065</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3681081378179</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3794012,24.46030649999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E609B21393165408F30">
+		<name>Helipad Park</name>
+		<gx:mid>/g/11cphysshv</gx:mid>
+		<gx:fid>0x3e5e689aeeb33c1f:0xfd5675c3ffbeaae5</gx:fid>
+		<LookAt>
+			<longitude>54.377803</longitude>
+			<latitude>24.4520748</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.4371321844654</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.377803,24.4520748,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03B2218F37316540A726">
+		<name>EXPERT GENTS SALOON</name>
+		<gx:mid>/g/11vyrwsnds</gx:mid>
+		<gx:fid>0x3e5e69b35f416e9f:0x58222faef0ac3595</gx:fid>
+		<LookAt>
+			<longitude>54.3779632</longitude>
+			<latitude>24.4530765</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.4287338961609</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3779632,24.4530765,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06CD066C9F316540DF13">
+		<name>Embassy of Venezuela</name>
+		<gx:mid>/g/1pp2wwd6x</gx:mid>
+		<gx:fid>0x3e5e689942719573:0x914375af1804ab4d</gx:fid>
+		<LookAt>
+			<longitude>54.37358469999999</longitude>
+			<latitude>24.4531325</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.4282643810374</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3735452,24.4531015,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="014DBDFA90316540FA69">
+		<name>mounia</name>
+		<gx:mid>/g/11vksxkpjz</gx:mid>
+		<gx:fid>0x3e5e69a1edd5603f:0xafd598956a4ce32e</gx:fid>
+		<LookAt>
+			<longitude>54.37369520000001</longitude>
+			<latitude>24.4537361</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.4232036173164</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.37369090000001,24.45373279999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A7FAA8EF43165411F84">
+		<name>Greenopia Nursery</name>
+		<gx:mid>/g/11cn6bkxkk</gx:mid>
+		<gx:fid>0x3e5e689c0b2a792d:0xf57bcfb623f70b88</gx:fid>
+		<LookAt>
+			<longitude>54.37538609999999</longitude>
+			<latitude>24.4550543</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.4121510416805</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3753861,24.4550543,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BB021EAEE3165414761">
+		<name>Diwan Of H.H. SULTAN BIN ZAYED AL NAHYYAN THE PRESIDENT&apos;S REPRESENTATIVE</name>
+		<gx:mid>/g/11g0hznp9n</gx:mid>
+		<gx:fid>0x3e5e69ab618c27f5:0xda023a1513ed9377</gx:fid>
+		<LookAt>
+			<longitude>54.3767601</longitude>
+			<latitude>24.4554779</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.4085992125998</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3767323,24.4555054,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02F8D28E023165416702">
+		<name>مركز ريلاكسا للعناية بالرجال سبا - Centre Relaxa Men Care Spa</name>
+		<gx:mid>/g/11rsqvmbqf</gx:mid>
+		<gx:fid>0x3e5e699cac26cd3f:0xddf750bd0eb5dbda</gx:fid>
+		<LookAt>
+			<longitude>54.37792109999999</longitude>
+			<latitude>24.4547641</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.414584297728</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3778744,24.4547264,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F0A1C549E316543724A">
+		<name>The Sheikh Zayed Private Academy for Boys</name>
+		<gx:mid>/g/1ttp8sg7</gx:mid>
+		<gx:fid>0x3e5e66088ed201af:0xa5aeb473726e699a</gx:fid>
+		<LookAt>
+			<longitude>54.3498105</longitude>
+			<latitude>24.4642515</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3350213066668</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3498105,24.4642515,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04E763D8BB3165438CB6">
+		<name>Falcon sports uae</name>
+		<gx:mid>/g/11ldd0z_d3</gx:mid>
+		<gx:fid>0x3e5e678224800931:0xd6246edb13664a81</gx:fid>
+		<LookAt>
+			<longitude>54.3490811</longitude>
+			<latitude>24.4648972</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3296053444814</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3490811,24.4648972,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="001CF324EF316543A3BC">
+		<name>Pocket Park (07)</name>
+		<gx:mid>/g/11jd84cx2r</gx:mid>
+		<gx:fid>0x3e5e67765fef540d:0x21b2139f3ef07525</gx:fid>
+		<LookAt>
+			<longitude>54.3494749</longitude>
+			<latitude>24.4655806</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3238730244705</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3494749,24.4655806,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F99FA8F09316543C1A2">
+		<name>Pocket Park (04)</name>
+		<gx:mid>/g/11jb083mgw</gx:mid>
+		<gx:fid>0x3e5e67aa7bbaadeb:0x3457aa0c44cbcd08</gx:fid>
+		<LookAt>
+			<longitude>54.3499674</longitude>
+			<latitude>24.466295</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3178805241952</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.34996739999999,24.466295,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09DF33870A316543F85A">
+		<name>Embassy of Uganda</name>
+		<gx:mid>/g/1q2wg38s7</gx:mid>
+		<gx:fid>0x3e5e660611b39da3:0xda0d90d732cce73a</gx:fid>
+		<LookAt>
+			<longitude>54.35131699999999</longitude>
+			<latitude>24.4630724</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3449109561869</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.351317,24.46307239999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="013037D2F73165445017">
+		<name>Khadim Bin Nahayan Mosque</name>
+		<gx:mid>/g/1ptwf8rm8</gx:mid>
+		<gx:fid>0x3e5e6605ec9c0c1d:0xbe0c94aadc063418</gx:fid>
+		<LookAt>
+			<longitude>54.3536239</longitude>
+			<latitude>24.4636738</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3398667936676</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3536239,24.4636738,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C5CCE223C316544DA29">
+		<name>Dr.Amer Al-Homsi - الدكتور عمرو الحمصي</name>
+		<gx:mid>/g/11p5nc5m70</gx:mid>
+		<gx:fid>0x3e5e433df1eb34bf:0x524d440b753202e8</gx:fid>
+		<LookAt>
+			<longitude>54.351673</longitude>
+			<latitude>24.4642396</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3351211195376</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.351673,24.4642396,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DD0B57CAE316544F9FF">
+		<name>London Consulting Medical Center</name>
+		<gx:mid>/g/11bc7lmbsl</gx:mid>
+		<gx:fid>0x3e5e66049524ea87:0x6899ee3530806446</gx:fid>
+		<LookAt>
+			<longitude>54.35596109999999</longitude>
+			<latitude>24.4623158</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3512566795641</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.35596109999999,24.4623158,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06ED1614D13165450E5D">
+		<name>Mosque Gadeeb Salem Al Zaabi</name>
+		<gx:mid>/g/1ptwl2w72</gx:mid>
+		<gx:fid>0x3e5e66045926c321:0x38a869f11fdf402d</gx:fid>
+		<LookAt>
+			<longitude>54.3547297</longitude>
+			<latitude>24.461262</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3600947718453</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3547409,24.4612159,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06749C5BDD31654536DE">
+		<name>Everlast Wellness Medical Center</name>
+		<gx:mid>/g/11bc7g38dr</gx:mid>
+		<gx:fid>0x3e5e66059b01561b:0x152c80101463fd11</gx:fid>
+		<LookAt>
+			<longitude>54.3507253</longitude>
+			<latitude>24.460672</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3650428803861</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3507253,24.460672,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02AD6D537E3165455201">
+		<name>جامع الرضوان AlRidwan Mosque</name>
+		<gx:mid>/g/11b635k26r</gx:mid>
+		<gx:fid>0x3e5e66067d55b7d1:0x92ffe60205f84709</gx:fid>
+		<LookAt>
+			<longitude>54.3515137</longitude>
+			<latitude>24.4613084</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3597056279064</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3515405,24.4611629,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="098D602F3931654571C7">
+		<name>Pocket Park (15)</name>
+		<gx:mid>/g/11fkmynr32</gx:mid>
+		<gx:fid>0x3e5e66062f01a695:0x7ceebe81d11cf6b5</gx:fid>
+		<LookAt>
+			<longitude>54.3499567</longitude>
+			<latitude>24.4629696</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3457731663477</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3499567,24.4629696,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06AC0C8F8431654595EA">
+		<name>Beauty Secret Medical Center</name>
+		<gx:mid>/g/11dfjbx7r2</gx:mid>
+		<gx:fid>0x3e5e65e27e2c4aff:0xb2b291408ef58da6</gx:fid>
+		<LookAt>
+			<longitude>54.3483855</longitude>
+			<latitude>24.4650499</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3283245181387</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3483855,24.4650499,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C26372CCB316545B6D9">
+		<name>First Global Clinic</name>
+		<gx:mid>/g/11f3dfxxkg</gx:mid>
+		<gx:fid>0x3e5e65e676816b19:0xcd28383dc9e3cd6b</gx:fid>
+		<LookAt>
+			<longitude>54.3476031</longitude>
+			<latitude>24.4652653</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3265177606936</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3476031,24.4652653,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A13B26C9A316545E853">
+		<name>Al Anamel Medical Center</name>
+		<gx:mid>/g/11g6n8d1z0</gx:mid>
+		<gx:fid>0x3e5e675874944733:0x9265cb5b2e646b0f</gx:fid>
+		<LookAt>
+			<longitude>54.3476027</longitude>
+			<latitude>24.4641554</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3358273572558</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3476027,24.4641554,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B9CF0BB5231654606C2">
+		<name>مدرسة المواهب</name>
+		<gx:mid>/g/11hdv9pqpx</gx:mid>
+		<gx:fid>0x3e5e676ca5d8c7ad:0x49bbc59fa0b0f3a5</gx:fid>
+		<LookAt>
+			<longitude>54.348024</longitude>
+			<latitude>24.4628994</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3463619500122</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3480241,24.4628993,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="068F476B233165463B20">
+		<name>مستشفى الشيخ خليفة للسكري والغدد Diabetes and Endocrinology center SKMC</name>
+		<gx:mid>/g/11bbwn3553</gx:mid>
+		<gx:fid>0x3e5e660f12958ceb:0x48cd2992a01c39de</gx:fid>
+		<LookAt>
+			<longitude>54.3541611</longitude>
+			<latitude>24.46595199999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3207576821363</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3541611,24.465952,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08967C5B7B3165466B2B">
+		<name>Mubarak Bin Mohammed School - Charter Schools</name>
+		<gx:mid>/g/11qh1xw26w</gx:mid>
+		<gx:fid>0x3e5e67444df73c0f:0x4d7c8f4cd56c8a34</gx:fid>
+		<LookAt>
+			<longitude>54.3559584</longitude>
+			<latitude>24.45792819999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3880526899244</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3559584,24.4579282,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01C541E83831654698FE">
+		<name>Al Dhabiania Private School ADH</name>
+		<gx:mid>/g/11bbwpmd3x</gx:mid>
+		<gx:fid>0x3e5e66035c10f45d:0xacb2a0df97238697</gx:fid>
+		<LookAt>
+			<longitude>54.3559477</longitude>
+			<latitude>24.459928</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3712823760101</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.35594769999999,24.459928,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D69EE0E00316546B2CA">
+		<name>Blossom Bateen</name>
+		<gx:mid>/g/11c1wx2ztd</gx:mid>
+		<gx:fid>0x3e5e661ceff39b1b:0xaf9156feb8ad2574</gx:fid>
+		<LookAt>
+			<longitude>54.35940279999999</longitude>
+			<latitude>24.4591418</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3778755929141</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3594028,24.4591418,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03A7880E6A316546CCBA">
+		<name>Bodytree Studio</name>
+		<gx:mid>/g/1pp2wzqj7</gx:mid>
+		<gx:fid>0x3e5e661be4d23889:0x4c266633ebec3b2c</gx:fid>
+		<LookAt>
+			<longitude>54.3627973</longitude>
+			<latitude>24.46253729999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3493989424583</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3627972,24.46253729999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="046B15E241316546E71C">
+		<name>Global Care Hospital</name>
+		<gx:mid>/g/11sf3gr_1d</gx:mid>
+		<gx:fid>0x3e5e672d4547c89f:0xad82c0f67488c9a1</gx:fid>
+		<LookAt>
+			<longitude>54.364951</longitude>
+			<latitude>24.4642752</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3348225195591</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.36495099999999,24.4642752,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="002EE687A23165470A5D">
+		<name>AIS - Abu Dhabi International School (AD Campus)</name>
+		<gx:mid>/g/11h7fnv2jp</gx:mid>
+		<gx:fid>0x3e5e661ed44339e5:0x7b69d4f82993361</gx:fid>
+		<LookAt>
+			<longitude>54.3655498</longitude>
+			<latitude>24.4623119</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.351289389021</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3655498,24.4623119,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D24D1492731654728E1">
+		<name>Bateen World Academy</name>
+		<gx:mid>/g/11clgqw4b4</gx:mid>
+		<gx:fid>0x3e5e661dbc02a351:0x1640d0788bf7dd5d</gx:fid>
+		<LookAt>
+			<longitude>54.3612943</longitude>
+			<latitude>24.4577993</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3891336024203</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3612943,24.4577993,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00126E1723316547400B">
+		<name>Embassy of Japan</name>
+		<gx:mid>/g/1xgz982c</gx:mid>
+		<gx:fid>0x3e5e661e2c0b2361:0x8654c7c018b6ed72</gx:fid>
+		<LookAt>
+			<longitude>54.36463609999999</longitude>
+			<latitude>24.4587763</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3809406777804</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.36464280000001,24.4587817,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07ED685F683165475422">
+		<name>Emirates National School - AlManaseer</name>
+		<gx:mid>/g/1tfzvzjr</gx:mid>
+		<gx:fid>0x3e5e661d810aa58d:0xd490cfab3424963b</gx:fid>
+		<LookAt>
+			<longitude>54.3599127</longitude>
+			<latitude>24.4567414</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3980046060047</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.35990589999999,24.4567362,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="022741565E3165476CA6">
+		<name>Sheikh Mohammed Bin Zayed Applications Office</name>
+		<gx:mid>/g/11b76l0dcs</gx:mid>
+		<gx:fid>0x3e5e68a6f18e4f67:0x56d9a53e1f36112b</gx:fid>
+		<LookAt>
+			<longitude>54.36292319999999</longitude>
+			<latitude>24.4525933</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.4327851007423</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3629232,24.4525933,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09CDC6595C316547B64C">
+		<name>Pocket park 28</name>
+		<gx:mid>/g/11t5t0w4kj</gx:mid>
+		<gx:fid>0x3e5e65f10c9558bd:0x2abb8204cd5a0965</gx:fid>
+		<LookAt>
+			<longitude>54.3389673</longitude>
+			<latitude>24.4598115</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3722593783408</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3389673,24.4598115,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0535F45A94316547ED9F">
+		<name>British Orchard Nursery - Al Bateen - Abu Dhabi</name>
+		<gx:mid>/g/11b5yw2lww</gx:mid>
+		<gx:fid>0x3e5e65fdbca22297:0xfd7e49d65a9d4a99</gx:fid>
+		<LookAt>
+			<longitude>54.3448789</longitude>
+			<latitude>24.4590699</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3784785499379</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3448789,24.4590699,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03023F01EE3165480EE5">
+		<name>Al Bateen Centre For Holy Quran memorisation</name>
+		<gx:mid>/g/11btvg9677</gx:mid>
+		<gx:fid>0x3e5e65fdb545304b:0x59447429a4883e4b</gx:fid>
+		<LookAt>
+			<longitude>54.34403270000001</longitude>
+			<latitude>24.4580353</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3871545810729</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3440327,24.4580353,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05FE034D39316548298D">
+		<name>Sariah bint Muhammad Mosque</name>
+		<gx:mid>/g/11b634wtyc</gx:mid>
+		<gx:fid>0x3e5e6600bf7ac427:0xf1a48614b42354f3</gx:fid>
+		<LookAt>
+			<longitude>54.3480417</longitude>
+			<latitude>24.4567077</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3982871911421</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.34803969999999,24.4567187,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0729F5EEB03165488712">
+		<name>Spanish Medical Center</name>
+		<gx:mid>/g/11k4_fw8z2</gx:mid>
+		<gx:fid>0x3e5e67faf247799f:0x3ae4df89713b4977</gx:fid>
+		<LookAt>
+			<longitude>54.348686</longitude>
+			<latitude>24.4618066</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3555273207402</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.34868600000001,24.4618066,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0074341F1D316548A4AF">
+		<name>Emirates College Of Technology</name>
+		<gx:mid>/g/11b7qsdg3b</gx:mid>
+		<gx:fid>0x3e5e6606f3d58105:0x55685533f68d339f</gx:fid>
+		<LookAt>
+			<longitude>54.35043820000001</longitude>
+			<latitude>24.4604332</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3670455758191</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3504382,24.4604332,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04A28C7D4D316549097C">
+		<name>JADA BARISTA TRAINING ACADEMY</name>
+		<gx:mid>/g/11w3h0znss</gx:mid>
+		<gx:fid>0x3e5e67ba6413504b:0x2af43e05e063f09a</gx:fid>
+		<LookAt>
+			<longitude>54.3692599</longitude>
+			<latitude>24.4764371</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.2327899997493</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3692599,24.4764371,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="031B12121731654926D9">
+		<name>Al Wahda Medical Center</name>
+		<gx:mid>/g/11c487wd7y</gx:mid>
+		<gx:fid>0x3e5e663d1cad8d51:0xedd41f3b2c357212</gx:fid>
+		<LookAt>
+			<longitude>54.371013</longitude>
+			<latitude>24.4711684</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.2769974730038</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.371013,24.4711684,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="026AFD147931654A41F4">
+		<name>Sheikh Zayed Private Academy for Girls</name>
+		<gx:mid>/g/11c1wqqw9c</gx:mid>
+		<gx:fid>0x3e5e6899289211c3:0x6101ef352a65afb9</gx:fid>
+		<LookAt>
+			<longitude>54.371531</longitude>
+			<latitude>24.453282</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.4270109386018</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.371531,24.45328199999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05AF644A3931654A64A1">
+		<name>Uniforms Shop</name>
+		<gx:mid>/g/11hz_25zd1</gx:mid>
+		<gx:fid>0x3e5e69ccf22b7be5:0xf4bf566eea2d5b72</gx:fid>
+		<LookAt>
+			<longitude>54.37022080000001</longitude>
+			<latitude>24.4537537</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.4230560519425</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3702523,24.4537191,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00BB458E2B31654A8EB7">
+		<name>Embassy of Belize</name>
+		<gx:mid>/g/11c7wd8706</gx:mid>
+		<gx:fid>0x3e5e689f41a372af:0x38e608398fe3265b</gx:fid>
+		<LookAt>
+			<longitude>54.36962680000001</longitude>
+			<latitude>24.4544948</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.4168422891389</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3696263,24.45449439999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B04DB4BE631657AE602">
+		<name>AlBateen PGC</name>
+		<gx:mid>/g/1tw_lqft</gx:mid>
+		<gx:fid>0x3e5e68af3d7b4919:0xae27cb33456924d1</gx:fid>
+		<LookAt>
+			<longitude>54.3562502</longitude>
+			<latitude>24.4480822</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.4706032078088</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3562502,24.4480822,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0CCF3C159D31657AFD74">
+		<name>Samaya Specialized Center - Al Bateen</name>
+		<gx:mid>/g/11bbwxm87t</gx:mid>
+		<gx:fid>0x3e5e68ea63becd73:0x9855cd44185d0241</gx:fid>
+		<LookAt>
+			<longitude>54.3709811</longitude>
+			<latitude>24.4338427</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.5899366485725</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.37098109999999,24.4338427,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E6B0C201031657B1640">
+		<name>Shakhbout Bin Sultan Park</name>
+		<gx:mid>/g/11c4bhl3v4</gx:mid>
+		<gx:fid>0x3e5e68ec220e4891:0x4b63b64383780613</gx:fid>
+		<LookAt>
+			<longitude>54.3754517</longitude>
+			<latitude>24.4347337</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.582471501525</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3754517,24.4347337,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01C0F95E9D31657B2F00">
+		<name>Abu Dhabi Equestrian Club (Racecourse)</name>
+		<gx:mid>/g/11f1jwqlnh</gx:mid>
+		<gx:fid>0x3e5e688c3c99a193:0xf0e38619e5ca40f2</gx:fid>
+		<LookAt>
+			<longitude>54.37564570000001</longitude>
+			<latitude>24.4430354</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.5129048299754</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.37564569999999,24.4430354,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="003A5B227A31657B513B">
+		<name>الإدارة العامة الإقامة وشوؤن الإجانب - أبوظبي</name>
+		<gx:mid>/g/11g1qjcvys</gx:mid>
+		<gx:fid>0x3e5e699b7f2eb8e1:0x78b2202eacb468a0</gx:fid>
+		<LookAt>
+			<longitude>54.389481</longitude>
+			<latitude>24.446373</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.4849303804586</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.389481,24.44637299999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09B81EACB631657B6971">
+		<name>Al Mushrif</name>
+		<gx:mid>/m/0263lnn</gx:mid>
+		<gx:fid>0x3e5e6888cd65de09:0x2d7053115bcf9865</gx:fid>
+		<LookAt>
+			<longitude>54.3900756</longitude>
+			<latitude>24.44115055</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>10581.8862956921</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.387746,24.44286959999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B576A5AA931657B8424">
+		<name>Mohammed bin Zayed Stadium</name>
+		<gx:mid>/m/0dk4ll</gx:mid>
+		<gx:fid>0x3e5e6862ddce3ab9:0xd1fab7aefa422fe5</gx:fid>
+		<LookAt>
+			<longitude>54.3921882</longitude>
+			<latitude>24.4527612</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.4313774159275</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3921882,24.45276119999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04CC4B823631657BA423">
+		<name>Yas Healthcare</name>
+		<gx:mid>/g/11bwf7x39n</gx:mid>
+		<gx:fid>0x3e5e687ca4d298e5:0xd7d3326a8b21d66b</gx:fid>
+		<LookAt>
+			<longitude>54.3955819</longitude>
+			<latitude>24.4563532</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.4012597643081</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3955819,24.4563532,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B044D7F5F31657BBE3C">
+		<name>The Royal Thai Embassy in Abu Dhabi</name>
+		<gx:mid>/g/11pcdln4rw</gx:mid>
+		<gx:fid>0x3e5e6932f44c7f69:0x4b7d714fd7cc503a</gx:fid>
+		<LookAt>
+			<longitude>54.3939801</longitude>
+			<latitude>24.4591437</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3778596593967</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3939801,24.4591437,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E4259359031657BEBE2">
+		<name>Higher Colleges of Technology - Abu Dhabi Men&apos;s College</name>
+		<gx:mid>/g/1tmpcdr7</gx:mid>
+		<gx:fid>0x3e5e6864e58ffb9f:0xd89bd5f400c6a2be</gx:fid>
+		<LookAt>
+			<longitude>54.3989845</longitude>
+			<latitude>24.4545696</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.4162151181285</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.39904239999999,24.454508,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0CBE6AE99D31657C07EE">
+		<name>سفارة الجمهورية الاسلامية الموريتانية</name>
+		<gx:mid>/g/11fmd5zd3c</gx:mid>
+		<gx:fid>0x3e5e6969dd36087f:0xe2c0797985ebe581</gx:fid>
+		<LookAt>
+			<longitude>54.39981119999999</longitude>
+			<latitude>24.4522132</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.4359718523943</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3998143,24.4522099,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08DAC7B83C31657C1E7E">
+		<name>Stars Rehabilitation Center for People of Determination</name>
+		<gx:mid>/g/11kb5h_0y0</gx:mid>
+		<gx:fid>0x3e5e69a1365bed7b:0xc77c68d71ea75bbc</gx:fid>
+		<LookAt>
+			<longitude>54.3990512</longitude>
+			<latitude>24.4515541</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.4414976294158</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3990512,24.4515541,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C0AF61BC431657C42CA">
+		<name>Stars for Special Abilities and Early Intervention Center</name>
+		<gx:mid>/g/1pp2vmpmv</gx:mid>
+		<gx:fid>0x3e5e686f39e9b895:0x3b28893eb29155a6</gx:fid>
+		<LookAt>
+			<longitude>54.4036819</longitude>
+			<latitude>24.4528944</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.4302606520423</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.4036887,24.4528994,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F63CEA01731657C6A49">
+		<name>Khalifa University</name>
+		<gx:mid>/m/0n902bs</gx:mid>
+		<gx:fid>0x3e5e686120c31b23:0x5d25df2e9ffa142e</gx:fid>
+		<LookAt>
+			<longitude>54.3949088</longitude>
+			<latitude>24.4473556</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.4766939589999</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3949088,24.4473556,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FB935736331657C87DD">
+		<name>SSDL</name>
+		<gx:mid>/g/11fnydddlb</gx:mid>
+		<gx:fid>0x3e5e69024fbf7df5:0x4cd64c3b7961a2e4</gx:fid>
+		<LookAt>
+			<longitude>54.3937056</longitude>
+			<latitude>24.4470055</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.4796286269478</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.39370559999999,24.4470055,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E141442F731657CABEB">
+		<name>Mohammed bin Zayed Mosque</name>
+		<gx:mid>/g/12358q6qj</gx:mid>
+		<gx:fid>0x3e5e6861ce53ee0d:0xde365c064118a29d</gx:fid>
+		<LookAt>
+			<longitude>54.3911862</longitude>
+			<latitude>24.4470715</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.4790753933811</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3911958,24.4470198,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="052FF6CEFF31657CCED7">
+		<name>مدارس النهضة الوطنية - بنين</name>
+		<gx:mid>/g/1v1knb5z</gx:mid>
+		<gx:fid>0x3e5e6881301fd577:0xa66510f3f65ce5f4</gx:fid>
+		<LookAt>
+			<longitude>54.38686389999999</longitude>
+			<latitude>24.4584827</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3834027790259</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.38686389999999,24.4584827,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A7C8C89B031657CF3CF">
+		<name>Al Jazeera Customer Happiness Center - Federal Authority for Identity, Citizenship, Customs and Ports Security</name>
+		<gx:mid>/g/11c0wzqn29</gx:mid>
+		<gx:fid>0x3e5e6862f883c5a9:0x1b86044a43aeed4b</gx:fid>
+		<LookAt>
+			<longitude>54.3914245</longitude>
+			<latitude>24.4536016</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.4243313154545</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3914245,24.4536016,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06C38616D031657D1321">
+		<name>NMC Royal Women&apos;s Hospital</name>
+		<gx:mid>/g/1q6kk7mzs</gx:mid>
+		<gx:fid>0x3e5e6863027826dd:0x9017d191e4f72f2c</gx:fid>
+		<LookAt>
+			<longitude>54.3934446</longitude>
+			<latitude>24.4524658</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.4338540634478</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.39344459999999,24.4524658,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07A5B1122131657D299B">
+		<name>Jawazat, CID office Medical, visa</name>
+		<gx:mid>/g/11smr9b9xk</gx:mid>
+		<gx:fid>0x3e5e69b3ebbdf5a9:0x47a04a1203485c5c</gx:fid>
+		<LookAt>
+			<longitude>54.3927418</longitude>
+			<latitude>24.4516914</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.4403465417208</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3927418,24.4516914,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C3C05BE5C31657D47C8">
+		<name>UAE Joint Command &amp; Staff College</name>
+		<gx:mid>/m/01370r4k</gx:mid>
+		<gx:fid>0x3e5e687b6dc9cbe9:0x97625c2b3588a0ce</gx:fid>
+		<LookAt>
+			<longitude>54.3970619</longitude>
+			<latitude>24.4568815</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3968298195259</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.397237,24.4570093,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="067474903D31657D66EF">
+		<name>MASJID ALREEM SEHMI AL AHBABI</name>
+		<gx:mid>/g/11pwhhb3rj</gx:mid>
+		<gx:fid>0x3e5e69730f278809:0xa667abb4440666c7</gx:fid>
+		<LookAt>
+			<longitude>54.3950463</longitude>
+			<latitude>24.4611912</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3606885505411</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3951291,24.4612052,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08C8514B2F31657D7D4D">
+		<name>Redwood Montessori Nursery - Al Nahyan</name>
+		<gx:mid>/g/11vythrzjr</gx:mid>
+		<gx:fid>0x3e5e695ba5b3ed97:0xaeb9439631233edc</gx:fid>
+		<LookAt>
+			<longitude>54.3964244</longitude>
+			<latitude>24.4605033</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3664576842184</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3964244,24.4605033,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="065D27E7C931657D92AD">
+		<name>سفارة دولة ليبيا في دولة الإمارات العربية المتحدة Embassy Of The State Of Libya In The UAE</name>
+		<gx:mid>/g/11c3pwgy46</gx:mid>
+		<gx:fid>0x3e5e415f7efd9e0b:0x2dbe971118ca9f3e</gx:fid>
+		<LookAt>
+			<longitude>54.3940716</longitude>
+			<latitude>24.462337</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.35107887423</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3940704,24.462336,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0865F3165731657DE689">
+		<name>Ministry of Culture &amp; Youth</name>
+		<gx:mid>/g/1wk6y79j</gx:mid>
+		<gx:fid>0x3e5e6880680cce8f:0xc2964b3733ea4a0c</gx:fid>
+		<LookAt>
+			<longitude>54.3889578</longitude>
+			<latitude>24.461856</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3551130083091</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.38895780000001,24.461856,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00B20B56EB31657E1198">
+		<name>UAE National Media Council</name>
+		<gx:mid>/g/11b66smn4s</gx:mid>
+		<gx:fid>0x3e5e68805afbcf9f:0xa0899a84a6917a4e</gx:fid>
+		<LookAt>
+			<longitude>54.38889500000001</longitude>
+			<latitude>24.4620311</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3536444575758</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3889649,24.4620815,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="049B103B0831657E3017">
+		<name>The UAE Council For Fatwa - HQ | مجلس الإمارات للإفتاء - المبنى الرئيسي</name>
+		<gx:mid>/g/11vm009_4t</gx:mid>
+		<gx:fid>0x3e5e6926aa85378b:0x63ad82ea16ee3dac</gx:fid>
+		<LookAt>
+			<longitude>54.3895609</longitude>
+			<latitude>24.4620091</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3538289704661</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.38956089999999,24.4620091,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08DB3E197D31657E42C6">
+		<name>WAM, Emirates News Agency وام، وكالة انباء الامارات</name>
+		<gx:mid>/g/11q2sx_19r</gx:mid>
+		<gx:fid>0x3e5e69b936473283:0xf0f7377f6c07db1d</gx:fid>
+		<LookAt>
+			<longitude>54.389586</longitude>
+			<latitude>24.4620808</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3532276256325</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3896635,24.462001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="010B0A5CA631657EA521">
+		<name>Mamoura Park</name>
+		<gx:mid>/g/11qndt2ztb</gx:mid>
+		<gx:fid>0x3e5e679000bc4b59:0x96496d0ce5b8c997</gx:fid>
+		<LookAt>
+			<longitude>54.3892477</longitude>
+			<latitude>24.4644514</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3333446116625</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3892477,24.46445139999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E8D0EB40131657EBA4E">
+		<name>حجر الذهب</name>
+		<gx:mid>/g/11vx2pbk7m</gx:mid>
+		<gx:fid>0x3e5e69007293b03f:0xb58a9aadfe7f76c9</gx:fid>
+		<LookAt>
+			<longitude>54.3896027</longitude>
+			<latitude>24.463878</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3381540679471</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3896027,24.463878,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F4141C4C831657EDEA4">
+		<name>Work</name>
+		<gx:mid>/g/11ld9zns1v</gx:mid>
+		<gx:fid>0x3e5e67004ba79ddd:0xac2b55c3d1f048c7</gx:fid>
+		<LookAt>
+			<longitude>54.3876418</longitude>
+			<latitude>24.4638034</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3387797762886</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3876418,24.4638034,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0975DF16E731657F04DE">
+		<name>Embassy Of Azerbaijan Abu Dhabi</name>
+		<gx:mid>/g/11y2d7_h_p</gx:mid>
+		<gx:fid>0x3e5e690034935693:0xe01e1702372ef6a6</gx:fid>
+		<LookAt>
+			<longitude>54.3911409</longitude>
+			<latitude>24.4634856</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3414453081349</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.39113880000001,24.4634882,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="079346EFB731657F2981">
+		<name>EMBASSY OF NEPAL</name>
+		<gx:mid>/g/11h2k2gqyz</gx:mid>
+		<gx:fid>0x3e5e6907ec862f8d:0x33956a273c49fdbd</gx:fid>
+		<LookAt>
+			<longitude>54.393187</longitude>
+			<latitude>24.4622779</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.351574548189</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.393187,24.4622779,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0AC1274EBC3165810F42">
+		<name>Delma Park</name>
+		<gx:mid>/g/11b6hqbjwp</gx:mid>
+		<gx:fid>0x3e5e662d6b3d0463:0x237c8e6316d3f74d</gx:fid>
+		<LookAt>
+			<longitude>54.39013</longitude>
+			<latitude>24.472976</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.2618316172149</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.39013,24.472976,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="003097BDB43165814C71">
+		<name>Embassy of Sri Lanka</name>
+		<gx:mid>/g/1hm6bz65f</gx:mid>
+		<gx:fid>0x3e5e6642ea905409:0x35cba2dba389c1ae</gx:fid>
+		<LookAt>
+			<longitude>54.383579</longitude>
+			<latitude>24.482596</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.181102372612</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.383579,24.482596,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09C372A17031658173AE">
+		<name>Senora ladies gym</name>
+		<gx:mid>/g/11y5cnkk4n</gx:mid>
+		<gx:fid>0x3e5e67002069aa91:0xeaa7c83de7b05727</gx:fid>
+		<LookAt>
+			<longitude>54.3807146</longitude>
+			<latitude>24.4881402</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.1345635144622</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.38074080000001,24.4881591,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00FDB859123165818E15">
+		<name>Traffic Management Centre</name>
+		<gx:mid>/g/11xx8h55m</gx:mid>
+		<gx:fid>0x3e5e664505c0dbb7:0x69557368e08e0b19</gx:fid>
+		<LookAt>
+			<longitude>54.3765692</longitude>
+			<latitude>24.4892124</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.125562210534</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3765692,24.4892124,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0AFA7EB710316581A3DF">
+		<name>Traffic Management Centre</name>
+		<gx:mid>/g/11xx8h55m</gx:mid>
+		<gx:fid>0x3e5e664505c0dbb7:0x69557368e08e0b19</gx:fid>
+		<LookAt>
+			<longitude>54.3765692</longitude>
+			<latitude>24.4892124</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.125562210534</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3765692,24.4892124,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0279BFC83D316581BA82">
+		<name>Marking Center Abu Dhabi</name>
+		<gx:mid>/g/11sskrkrp3</gx:mid>
+		<gx:fid>0x3e5e66447cffffff:0x3e2747680b5c709a</gx:fid>
+		<LookAt>
+			<longitude>54.3745609</longitude>
+			<latitude>24.4879265</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.136357520443</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3745609,24.4879265,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09AEFA9A60316581D0A6">
+		<name>Liwa College - Abu Dhabi Campus</name>
+		<gx:mid>/m/0127126t</gx:mid>
+		<gx:fid>0x3e5e6665d67602a7:0x6cb9c57a3e955cae</gx:fid>
+		<LookAt>
+			<longitude>54.37556929999999</longitude>
+			<latitude>24.4855207</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.1565531774395</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3755693,24.4855207,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="015AF69518316582098E">
+		<name>Higher Colleges of Technology</name>
+		<gx:mid>/m/0cscvc</gx:mid>
+		<gx:fid>0x3e5e6639a5dc3e1d:0xb678baaf88894a44</gx:fid>
+		<LookAt>
+			<longitude>54.3767334</longitude>
+			<latitude>24.4774992</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.223877322705</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.37673340000001,24.4774992,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B778ED27B3165822268">
+		<name>Sudanese Club Abu Dhabi</name>
+		<gx:mid>/g/1ptwn5c_1</gx:mid>
+		<gx:fid>0x3e5e664746c57fbb:0x87642af4d84b64ef</gx:fid>
+		<LookAt>
+			<longitude>54.3753177</longitude>
+			<latitude>24.48131069999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.1918900225664</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3751726,24.4812081,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05E6558C38316582372D">
+		<name>كليات التقنيه العليا للطالبات بوابه 5</name>
+		<gx:mid>/g/11h_bvwmds</gx:mid>
+		<gx:fid>0x3e5e676729d1b935:0x95ce8c769c28bbeb</gx:fid>
+		<LookAt>
+			<longitude>54.3780228</longitude>
+			<latitude>24.4784442</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.2159470049249</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3780228,24.47844419999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F647A954D3165825B4C">
+		<name>Busy Bees Nursery</name>
+		<gx:mid>/g/11bbwp64_z</gx:mid>
+		<gx:fid>0x3e5e66416497a4f3:0xf84163b256d65fb0</gx:fid>
+		<LookAt>
+			<longitude>54.37210409999999</longitude>
+			<latitude>24.48446749999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.1653937769576</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.37213800000001,24.4844912,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="019E7C6FA23165827BDD">
+		<name>Milano Billiard Hall</name>
+		<gx:mid>/g/1hhky1g2d</gx:mid>
+		<gx:fid>0x3e5e6643bc12cc97:0x191b9cb91f7c94f8</gx:fid>
+		<LookAt>
+			<longitude>54.37235419999999</longitude>
+			<latitude>24.4864909</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.148408980224</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3723509,24.48648859999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02D42B85303165829EC4">
+		<name>AbdulRahim Abdullah Hussain Khoory Mosque</name>
+		<gx:mid>/g/11b66gcp19</gx:mid>
+		<gx:fid>0x3e5e66424da37f11:0xe4e84cd1a2db32fc</gx:fid>
+		<LookAt>
+			<longitude>54.37111119999999</longitude>
+			<latitude>24.4864126</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.1490662685057</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3709339,24.4863835,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0610A5AABC316582D8C6">
+		<name>ماتم البحارنة الكبير - أبوظبي</name>
+		<gx:mid>/g/11sbrwq10v</gx:mid>
+		<gx:fid>0x3e5e6744ba8cf4e7:0x550792fc6456aa9c</gx:fid>
+		<LookAt>
+			<longitude>54.3712664</longitude>
+			<latitude>24.4853508</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.1579793474295</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.37139930000001,24.485443,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="079F257960316582F68E">
+		<name>BHARATHANJALI CLASSICAL DANCE TRAINING CENTER - ABU DHABI</name>
+		<gx:mid>/g/11y30_4rfs</gx:mid>
+		<gx:fid>0x3e5e670a90d799d7:0xb92e12afd9d02280</gx:fid>
+		<LookAt>
+			<longitude>54.370312</longitude>
+			<latitude>24.4851029</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.1600602469395</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.370312,24.48510289999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D901DF8833165834C31">
+		<name>GEMS Winchester School</name>
+		<gx:mid>/g/1td9tl8_</gx:mid>
+		<gx:fid>0x3e5e66405ab20491:0xcd80e9458eaf954e</gx:fid>
+		<LookAt>
+			<longitude>54.3705031</longitude>
+			<latitude>24.4813625</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.1914552699003</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3705031,24.4813625,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F916193D23165837958">
+		<name>Embassy of Ukraine</name>
+		<gx:mid>/g/1hb_gjbd_</gx:mid>
+		<gx:fid>0x3e5e6641a6e879ff:0xe483639b47a7e16a</gx:fid>
+		<LookAt>
+			<longitude>54.3703962</longitude>
+			<latitude>24.4824041</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.1827130406421</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.37039619999999,24.4824041,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EA84D2C123165839FAA">
+		<name>المركز الثقافي المصري</name>
+		<gx:mid>/g/11p672fqht</gx:mid>
+		<gx:fid>0x3e5e672238456663:0x59a130ff386404f7</gx:fid>
+		<LookAt>
+			<longitude>54.3722135</longitude>
+			<latitude>24.482381</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.1829069243551</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3723085,24.482447,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07A1316D51316583D2FE">
+		<name>Mediclinic Al Noor Hospital</name>
+		<gx:mid>/g/1td_fqbc</gx:mid>
+		<gx:fid>0x3e5e6664a2c0e285:0x749f0c3176fa1bef</gx:fid>
+		<LookAt>
+			<longitude>54.36059160000001</longitude>
+			<latitude>24.4908738</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.1116137706159</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3605916,24.4908738,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00D3B59CCA316583F0C4">
+		<name>Cultural Foundation Abu Dhabi</name>
+		<gx:mid>/g/11gmwyzhsb</gx:mid>
+		<gx:fid>0x3e5e67b557f4f3ab:0x1bf118f12283369a</gx:fid>
+		<LookAt>
+			<longitude>54.35737199999999</longitude>
+			<latitude>24.48276</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.1797258677432</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.35737200000001,24.48276,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D4762F0B93165847A96">
+		<name>معهد ماكس انجلش للغات والكمبيوتر</name>
+		<gx:mid>/g/11pc592bkz</gx:mid>
+		<gx:fid>0x3e5e671076d0198b:0x42fd65d8e2f7fa3f</gx:fid>
+		<LookAt>
+			<longitude>54.3512988</longitude>
+			<latitude>24.480712</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.196914796888</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3512988,24.480712,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0CE28F30F8316584991E">
+		<name>Mosque Of Sheikh Khalifa Bin Zayed The First</name>
+		<gx:mid>/g/1th61vrb</gx:mid>
+		<gx:fid>0x3e5e667a0785b99b:0x5d603eb96f78f2a7</gx:fid>
+		<LookAt>
+			<longitude>54.3527445</longitude>
+			<latitude>24.4844421</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.1656069812664</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3527774,24.4843005,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04078C40EA316584C98B">
+		<name>Al Manhal Palace</name>
+		<gx:mid>/g/11cp7jqnwc</gx:mid>
+		<gx:fid>0x3e5e666caa7309a5:0xef87a7399a8ea8e7</gx:fid>
+		<LookAt>
+			<longitude>54.3576241</longitude>
+			<latitude>24.47306829999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.2610571884793</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3576241,24.4730683,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="083E277793316584DF79">
+		<name>calisthenics park</name>
+		<gx:mid>/g/11vxpwy6ph</gx:mid>
+		<gx:fid>0x3e5e672d6e65c72f:0x9602069ed1e7110d</gx:fid>
+		<LookAt>
+			<longitude>54.35805089999999</longitude>
+			<latitude>24.4760692</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.2358771739343</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.35805089999999,24.47606919999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06F657C239316584FB8B">
+		<name>Al Manhal Palace</name>
+		<gx:mid>/g/12jsf50mc</gx:mid>
+		<gx:fid>0x3e5e661289995867:0x771b64a57e405f37</gx:fid>
+		<LookAt>
+			<longitude>54.35851425</longitude>
+			<latitude>24.47364675</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2112.359709231613</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.36218890000001,24.4735999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="017E05D5C5316585213F">
+		<name>Sheikh Khalifa Medical City - Outpatient Clinics</name>
+		<gx:mid>/g/11btwk3g21</gx:mid>
+		<gx:fid>0x3e5e6616d587ca67:0x13a99290c928ac66</gx:fid>
+		<LookAt>
+			<longitude>54.3633573</longitude>
+			<latitude>24.4697559</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.2888477181481</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3633573,24.4697559,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05FF38BBF03165854899">
+		<name>Sheikh Khalifa Medical City</name>
+		<gx:mid>/m/03cbsdm</gx:mid>
+		<gx:fid>0x3e5e677446f2df19:0x28c3b83349b91b86</gx:fid>
+		<LookAt>
+			<longitude>54.3660787</longitude>
+			<latitude>24.4677583</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3056056406206</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3660787,24.4677583,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07784D414D3165855E70">
+		<name>German International School</name>
+		<gx:mid>/g/11bw8f2c5_</gx:mid>
+		<gx:fid>0x3e5e6610821f32e7:0x95accfbfbb310ebd</gx:fid>
+		<LookAt>
+			<longitude>54.3601037</longitude>
+			<latitude>24.4663194</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3176758503523</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3601037,24.4663194,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B75EC8E66316585772F">
+		<name>Mosque Of The First Sheikh Zayed Bin Sultan</name>
+		<gx:mid>/g/11b64n5ckl</gx:mid>
+		<gx:fid>0x3e5e66105b8aae61:0x4d2c6ffd0e65d93c</gx:fid>
+		<LookAt>
+			<longitude>54.3599519</longitude>
+			<latitude>24.4677586</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3056031240044</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3599519,24.4677586,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06BEA4600E31658593CE">
+		<name>Kanna Saeed Al Qamzi Mosque</name>
+		<gx:mid>/g/11b63f609k</gx:mid>
+		<gx:fid>0x3e5e66054ab71873:0x15a3e4b9cff687d</gx:fid>
+		<LookAt>
+			<longitude>54.3578304</longitude>
+			<latitude>24.4644188</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3336180505087</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3578267,24.4644527,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C4CBB7021316585B103">
+		<name>Abdullah Bin Shaiban Mosque</name>
+		<gx:mid>/g/11b635xq0h</gx:mid>
+		<gx:fid>0x3e5e660fd9884f23:0xf562e36b63868bc8</gx:fid>
+		<LookAt>
+			<longitude>54.3573126</longitude>
+			<latitude>24.46725199999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.30985280998</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.35735559999999,24.4672604,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03F27296C9316585D5D6">
+		<name>Babies Resort Nursery</name>
+		<gx:mid>/g/11g9q67gx3</gx:mid>
+		<gx:fid>0x3e5e660f96eb23f3:0x6fb3d931fb4a43a</gx:fid>
+		<LookAt>
+			<longitude>54.3559138</longitude>
+			<latitude>24.4660289</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3201126315153</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3559138,24.4660289,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0811BC157F316585FE7F">
+		<name>Fatimah bint Abd Al-Rahman Mosque</name>
+		<gx:mid>/g/11b66d976w</gx:mid>
+		<gx:fid>0x3e5e6618fe8ee6c9:0x7ba3d1fba7cf08f6</gx:fid>
+		<LookAt>
+			<longitude>54.3660459</longitude>
+			<latitude>24.4649583</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3290928470506</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.36585830000001,24.4649169,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D36095B1E316586182A">
+		<name>Women&apos;s health center SEHA</name>
+		<gx:mid>/g/11b6h_yb7p</gx:mid>
+		<gx:fid>0x3e5e661ecf23ead3:0x8baa5654bd3435b8</gx:fid>
+		<LookAt>
+			<longitude>54.3648912</longitude>
+			<latitude>24.4618394</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.355252230789</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.36489119999999,24.4618394,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01434F15DD3165863E07">
+		<name>Atfal Abu Dhabi KG</name>
+		<gx:mid>/g/11fzf1kjf4</gx:mid>
+		<gx:fid>0x3e5e6618a8a61865:0x2e0bd8403e446aa6</gx:fid>
+		<LookAt>
+			<longitude>54.3673977</longitude>
+			<latitude>24.463574</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3407038606174</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3673977,24.463574,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F259594F6316586576B">
+		<name>مركز تجميل للاسنان</name>
+		<gx:mid>/g/11h22ry47v</gx:mid>
+		<gx:fid>0x3e5e67467909af61:0xdec2bb51c55d5388</gx:fid>
+		<LookAt>
+			<longitude>54.368136</longitude>
+			<latitude>24.4622648</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3516844182436</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.368136,24.4622648,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EB21686EC31658680FF">
+		<name>مركز التربية الرياضية الشرطية</name>
+		<gx:mid>/g/11csqzlc3n</gx:mid>
+		<gx:fid>0x3e5e6623ceaea029:0xfe6f07647d573939</gx:fid>
+		<LookAt>
+			<longitude>54.3717859</longitude>
+			<latitude>24.4651107</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3278145342005</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3718091,24.4650839,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0453533E82316586E56D">
+		<name>Al Bateen Beach</name>
+		<gx:mid>/g/11b73vg3zl</gx:mid>
+		<gx:fid>0x3e5e68e505b14b55:0xf2512a878a3585a8</gx:fid>
+		<LookAt>
+			<longitude>54.3773175</longitude>
+			<latitude>24.427327</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.644520287817</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3773175,24.427327,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="011459170E31658718B9">
+		<name>Masjid Al-Taqwa</name>
+		<gx:mid>/g/11b66c_sll</gx:mid>
+		<gx:fid>0x3e5e68ea1665b9fb:0x5957b7201e1da6fd</gx:fid>
+		<LookAt>
+			<longitude>54.3696789</longitude>
+			<latitude>24.4337786</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.5904736940356</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3698385,24.4338018,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06CF7D761831658741FC">
+		<name>Rashid bin Awaida mosque</name>
+		<gx:mid>/g/11b66l1c6n</gx:mid>
+		<gx:fid>0x3e5e68beeaae5117:0x9d57f6e922855e68</gx:fid>
+		<LookAt>
+			<longitude>54.3645144</longitude>
+			<latitude>24.4403736</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.5352125257516</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3645295,24.4403767,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F65917DB43165875F29">
+		<name>Ruler’s Representative Court - Al Dhafrah Region (Abu Dhabi office)</name>
+		<gx:mid>/g/1pp2vmz3n</gx:mid>
+		<gx:fid>0x3e5e68baf6b07a03:0xf42026fca5c32e2d</gx:fid>
+		<LookAt>
+			<longitude>54.3594064</longitude>
+			<latitude>24.4431594</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.5118655722698</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3594103,24.4431625,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="011B6319693165877985">
+		<name>Mohammed bin Saqer Alfalahi Mosque</name>
+		<gx:mid>/g/11h2mjy920</gx:mid>
+		<gx:fid>0x3e5e69357e0f9df3:0xbfe7bec040322af2</gx:fid>
+		<LookAt>
+			<longitude>54.3638103</longitude>
+			<latitude>24.4387131</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.549127538469</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3637746,24.4386971,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F8E0BC5273165891BF1">
+		<name>Post Office Park</name>
+		<gx:mid>/g/11h6gzlgs6</gx:mid>
+		<gx:fid>0x3e5e6659cc6cce27:0x7e0d60ad593022e3</gx:fid>
+		<LookAt>
+			<longitude>54.378577</longitude>
+			<latitude>24.499188</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.0417983332112</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.37857699999999,24.499188,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00BE6010763165893E40">
+		<name>Electra Park</name>
+		<gx:mid>/g/11fldz2425</gx:mid>
+		<gx:fid>0x3e5e665bd568c3c9:0x8c5e5f0adfdc9552</gx:fid>
+		<LookAt>
+			<longitude>54.3766799</longitude>
+			<latitude>24.4963227</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.0658610438717</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.37667990000001,24.4963227,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C6F11744D316589584C">
+		<name>Corniche Hospital</name>
+		<gx:mid>/g/11g6nh_b1r</gx:mid>
+		<gx:fid>0x3e5e66f53ed07a0d:0xe0c3c301ae09d93d</gx:fid>
+		<LookAt>
+			<longitude>54.36964709999999</longitude>
+			<latitude>24.501085</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.0258659863572</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.36964709999999,24.501085,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0587A4C2933165898660">
+		<name>NMC Specialty Hospital Abu Dhabi</name>
+		<gx:mid>/g/12hvnfd7z</gx:mid>
+		<gx:fid>0x3e5e4660d247ca21:0xb7afdeeb687e5985</gx:fid>
+		<LookAt>
+			<longitude>54.3611626</longitude>
+			<latitude>24.4837783</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.1711787618957</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3611626,24.4837783,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08A9E68A4A3165899C5A">
+		<name>Summit International Schools</name>
+		<gx:mid>/g/12vrz_xgn</gx:mid>
+		<gx:fid>0x3e5e666aba5e5f8d:0x6a09fc2e2e732a79</gx:fid>
+		<LookAt>
+			<longitude>54.3678373</longitude>
+			<latitude>24.4790855</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.2105651413651</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3678373,24.4790855,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="081D3B9E6531658A050B">
+		<name>Al Abeer Medical Center Day Surgery Unit LLC</name>
+		<gx:mid>/g/11tx7xz3yf</gx:mid>
+		<gx:fid>0x3e5e67973370dc9d:0xd1d7d898d7145147</gx:fid>
+		<LookAt>
+			<longitude>54.3700302</longitude>
+			<latitude>24.489527</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.1229210219922</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3700302,24.489527,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E23908F7631658A3C34">
+		<name>Ahalia Hospital Abu Dhabi- Hamdan Street</name>
+		<gx:mid>/g/1w6r6rk_</gx:mid>
+		<gx:fid>0x3e5e6665747bd145:0x35c2404afa3163d0</gx:fid>
+		<LookAt>
+			<longitude>54.3598748</longitude>
+			<latitude>24.4879127</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.1364733706022</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3598748,24.4879127,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DF836904831658A59AB">
+		<name>Cleveland Clinic Abu Dhabi‎</name>
+		<gx:mid>/m/0r4lp_n</gx:mid>
+		<gx:fid>0x3e5e66530654bad9:0xf40306482aae392e</gx:fid>
+		<LookAt>
+			<longitude>54.3879995</longitude>
+			<latitude>24.49729649999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.0576833822498</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3879995,24.49729649999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="037674513631658B882D">
+		<name>Al Mushrif Palace</name>
+		<gx:mid>/g/11qbs89sy9</gx:mid>
+		<gx:fid>0x3e5e690e5de28fbf:0x7203661a35a35a9f</gx:fid>
+		<LookAt>
+			<longitude>54.3762172</longitude>
+			<latitude>24.4500158</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.4543939411236</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3762172,24.4500158,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0CDB6D8A2E31658BC09D">
+		<name>Jigsaw Nursery</name>
+		<gx:mid>/g/1td68blv</gx:mid>
+		<gx:fid>0x3e5e689edc59493b:0x98d85251b1eadf30</gx:fid>
+		<LookAt>
+			<longitude>54.371484</longitude>
+			<latitude>24.4558379</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.4055806174507</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3715902,24.4559266,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="038A193CEA31658BEF10">
+		<name>مدرسة النخبة Al Nokhba School</name>
+		<gx:mid>/g/11c2psjyq3</gx:mid>
+		<gx:fid>0x3e5e661ff70cdfb3:0xc06e2b90a0cda758</gx:fid>
+		<LookAt>
+			<longitude>54.3683722</longitude>
+			<latitude>24.4590023</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.3790454454904</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.36837219999999,24.4590023,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B83BC711B31658C0727">
+		<name>Embassy of Argentina</name>
+		<gx:mid>/g/11xkv964z</gx:mid>
+		<gx:fid>0x3e5e689ff978c35b:0x632c2a87cd52b919</gx:fid>
+		<LookAt>
+			<longitude>54.3688971</longitude>
+			<latitude>24.4578146</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.389005301981</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3689225,24.4577881,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="069B78CBA831658C2091">
+		<name>French Embassy</name>
+		<gx:mid>/g/11g7zg5bfk</gx:mid>
+		<gx:fid>0x3e5e68a039de0771:0xf6da9b04659ae8c7</gx:fid>
+		<LookAt>
+			<longitude>54.36746850000001</longitude>
+			<latitude>24.4559957</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.4042574539711</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.3674685,24.4559957,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01F931386F31658C3A4B">
+		<name>Emirates National School</name>
+		<gx:mid>/g/11vf01mysd</gx:mid>
+		<gx:fid>0x3e5e69b9cb03fb47:0x249e34f259aa9daa</gx:fid>
+		<LookAt>
+			<longitude>54.36694439999999</longitude>
+			<latitude>24.4554149</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>951.4091274626392</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EC83A323331653C7FCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>54.36694439999999,24.4554149,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
